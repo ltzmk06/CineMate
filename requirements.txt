@@ -5,3 +5,4 @@ pandas==1.5.3
 requests==2.31.0
 session_info==1.0.0
 streamlit==1.31.0
+sklearn==1.4.0
